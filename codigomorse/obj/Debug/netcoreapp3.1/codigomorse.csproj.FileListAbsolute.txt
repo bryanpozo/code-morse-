@@ -1,0 +1,13 @@
+C:\Users\bryan pozo\Desktop\codigomorse\codigomorse\bin\Debug\netcoreapp3.1\codigomorse.exe
+C:\Users\bryan pozo\Desktop\codigomorse\codigomorse\bin\Debug\netcoreapp3.1\codigomorse.deps.json
+C:\Users\bryan pozo\Desktop\codigomorse\codigomorse\bin\Debug\netcoreapp3.1\codigomorse.runtimeconfig.json
+C:\Users\bryan pozo\Desktop\codigomorse\codigomorse\bin\Debug\netcoreapp3.1\codigomorse.runtimeconfig.dev.json
+C:\Users\bryan pozo\Desktop\codigomorse\codigomorse\bin\Debug\netcoreapp3.1\codigomorse.dll
+C:\Users\bryan pozo\Desktop\codigomorse\codigomorse\bin\Debug\netcoreapp3.1\codigomorse.pdb
+C:\Users\bryan pozo\Desktop\codigomorse\codigomorse\obj\Debug\netcoreapp3.1\codigomorse.csprojAssemblyReference.cache
+C:\Users\bryan pozo\Desktop\codigomorse\codigomorse\obj\Debug\netcoreapp3.1\codigomorse.AssemblyInfoInputs.cache
+C:\Users\bryan pozo\Desktop\codigomorse\codigomorse\obj\Debug\netcoreapp3.1\codigomorse.AssemblyInfo.cs
+C:\Users\bryan pozo\Desktop\codigomorse\codigomorse\obj\Debug\netcoreapp3.1\codigomorse.csproj.CoreCompileInputs.cache
+C:\Users\bryan pozo\Desktop\codigomorse\codigomorse\obj\Debug\netcoreapp3.1\codigomorse.dll
+C:\Users\bryan pozo\Desktop\codigomorse\codigomorse\obj\Debug\netcoreapp3.1\codigomorse.pdb
+C:\Users\bryan pozo\Desktop\codigomorse\codigomorse\obj\Debug\netcoreapp3.1\codigomorse.genruntimeconfig.cache
